@@ -1,8 +1,8 @@
 package java24
 import java.util.Scanner;
-
-
 public class Semana {
+
+
 
 public class void main(String[] args);
 

@@ -9,7 +9,7 @@ public int soma(int a, int b) {
 	
 //Metodo 2: Verificar se um numero é Par:
 public  
-boolean numero % 2 ==0;
+boolean numero % 2 ==0; 
 
 
 public String invertString(String texto) {	
@@ -42,19 +42,31 @@ return 1;
      //Intanciando a nossa que criamos:
 	ClassesMetodos util= new ClassesMetodos();
 	//Chamando os métodos:
+	
+	
 	System.out.println("Soma de 5 e 3: "+ util.soma(5, 3) );
 	System.out.println("O número 4 é par?" + util.ehPar(4));
 	System.out.println("String invertida de 'java': " +
 util.invertString("Java"));
-}
-}
+System.out.println("O fatorial de 5 é: " + util.fatorial(5));
+   int[] numeros = {1,5, 6, 8, 44};
+System.out.println("O maior número do Array é:"+ util.Maiornumero(numero));
+  }
+ }
+  }
+         //Médoto 5: encontra o maior numero em um array:
+         public int maiorNúmero(int[]numeros) {
+          int maior = numeros[0];
+          for (int numero : numeros) {
+      if (numero > maior ) {
+  maior  = numero;
+      }
+  
+          } 
+  
+  return maior;
+         }  
 
-
-
-
-
-
-
-
-
-
+         
+         
+         
