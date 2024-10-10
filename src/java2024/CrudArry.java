@@ -21,7 +21,9 @@ public class CrudArry {
 			System.out.println("3.Atualizar usuário");
 			System.out.println("sair");
 			System.out.println("Escolha uma opção");
-
+			
+			  opcao  = sc.  nextInt();
+			
 			switch (opcao) {
 			case 1:
 				adicionarUsuario(sc);
@@ -45,6 +47,11 @@ public class CrudArry {
 
 		} while (opcao != 5);
 		sc.close();
+	}
+
+	    private static opcao nextInScannert() {
+		
+		return null;
 	}
 
 	// Criar(Adicionar usuario):
