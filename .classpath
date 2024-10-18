@@ -14,5 +14,19 @@
 	<classpathentry kind="src" path="Strings"/>
 	<classpathentry kind="src" path="Classes"/>
 	<classpathentry kind="src" path="Gerente"/>
+	<classpathentry kind="src" path="Interfaces"/>
+	<classpathentry kind="src" path="Cartao"/>
+	<classpathentry kind="src" path="tryc catht"/>
+	<classpathentry kind="src" path="Divisão"/>
+	<classpathentry kind="src" path="teste2"/>
+	<classpathentry kind="src" path="InterfaceGrafica"/>
+	<classpathentry kind="src" path="inter"/>
+	<classpathentry kind="src" path="conta"/>
+	<classpathentry kind="src" path="noite"/>
+	<classpathentry kind="src" path="cursorapido"/>
+	<classpathentry kind="src" path="Primo"/>
+	<classpathentry kind="src" path="CalculadoraW"/>
+	<classpathentry kind="src" path="contador"/>
+	<classpathentry kind="src" path="forma"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
